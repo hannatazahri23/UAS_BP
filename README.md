@@ -348,3 +348,10 @@ from . view_nilai import lihat_data, mencari_data, template_op, template_end, ms
 * #### Output dari program ketika user salah memasukan perintah :
 ![imgOUT-9](img/UAS_BP-out9.PNG)
 #
+
+## Berikut beberapa Link URL :
+* ### Link video You Tube : <https://youtu.be/XbRq43fz2x4>
+* ### Link file PDF : <https://drive.google.com/file/d/15bVK1ENbTdYNF37O6UePLiJI8hULjj9Q/view?usp=sharing>
+#
+
+## SEKIAN DAN TERIMA KASIH :smile::smile:
